@@ -1,0 +1,23 @@
+{
+  "name": "exercises",
+  "version": "1.0.0",
+  "description": "Let's combine everything we know.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YahooNGMI/exercises.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YahooNGMI/exercises/issues"
+  },
+  "homepage": "https://github.com/YahooNGMI/exercises#readme",
+  "dependencies": {
+    "ethers": "^5.7.2",
+    "prompt-promise": "^1.0.3"
+  }
+}
